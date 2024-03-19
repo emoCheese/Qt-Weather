@@ -1,0 +1,6 @@
+https://devapi.qweather.com/v7/weather/7d?location=
+https://devapi.qweather.com/v7/air/now?location=
+https://devapi.qweather.com/v7/weather/now?location=
+城市代号
+&key=你的密钥
+
